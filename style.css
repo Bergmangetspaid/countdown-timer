@@ -1,0 +1,22 @@
+/* style.css */
+body {
+    font-family: 'Open 24 Display St', sans-serif;
+    text-align: center;
+    background: #282c34;
+    color: #FF4500; /* Neon orange */
+    text-shadow: 
+        0 0 2px #FF4500, 
+        0 0 4px #FF4500, 
+        0 0 6px #FF6347, 
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 50px;
+}
+
+#countdown {
+    font-size: 4rem;
+    margin-top: 20px;
+}
